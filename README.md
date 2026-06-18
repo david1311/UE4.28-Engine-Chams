@@ -1,3 +1,2 @@
 # UE4.28-Engine-Chams
-Engine chams for Unreal Engine 4
-(Chams Code)[DrawTransition.hpp]
+(Chams Code)[https://github.com/david1311/UE4.28-Engine-Chams/blob/main/DrawTransition.hpp]
